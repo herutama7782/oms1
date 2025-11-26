@@ -1,0 +1,9 @@
+{
+  "name": "POS Mobile Lisensi + R2 + Piutang + Reset Akses Akun",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "enabledApis": []
+}
